@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding-top: 50px;
+  font-family: "Raleway", sans-serif;
+}
+
+.img-slider {
+  height: 600px;
+}
+.about {
+  background-color: #f2f2f2;
+}
+.about-line {
+  border: none;
+  border-top: 3px solid black;
+  max-width: 250px;
+  margin: 25px auto;
+}
