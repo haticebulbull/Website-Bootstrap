@@ -21,3 +21,34 @@ body {
   max-width: 250px;
   margin: 25px auto;
 }
+.icon {
+  color: gray;
+  border: 10px solid #f2f2f2;
+  position: relative;
+  top: -55px;
+  font-size: 40px;
+  background-color: #f2f2f2;
+}
+.icon-white {
+  color: gray;
+  border: 10px solid white;
+  position: relative;
+  top: -55px;
+  font-size: 40px;
+  background-color: white;
+}
+.team-card img:hover {
+  opacity: 0.8;
+}
+.galeri {
+  background-color: #f2f2f2;
+}
+figure img:hover {
+  opacity: 0.8;
+}
+.btn {
+  display: flex;
+  align-items: center;
+  margin: 20px 200px;
+  padding: 15px 70px;
+}
